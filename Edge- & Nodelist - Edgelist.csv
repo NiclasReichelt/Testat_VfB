@@ -1,0 +1,26 @@
+from,to,relation,weight
+VfB,Thomas,1,3
+VfB,Tobias,1,2
+VfB,Oliver,1,1
+VfB,Claus,2,3
+VfB,Wilfried,2,2
+VfB,Rainer,2,1
+VfB,Hartmut,2,1
+VfB,Franz,2,1
+VfB,Bertram,2,1
+VfB,Daimler,4,3
+VfB,Kärcher,4,1
+Thomas,Magnus,3,1
+Thomas,Akademie,3,1
+Oliver,Kommission,3,1
+Claus,2VfB,1,3
+Claus,Fair,2,3
+Claus,Intesia,1,3
+Wilfried,Daimler ,1,3
+Wilfried,Hanns,1,2
+Wilfried,SWM,2,2
+Hartmut,Alfred,1,3
+Franz,Daimler,1,3
+Bertram,Bosch,3,2
+Rainer,11hilft,3,2
+Rainer,2VfB,2,3
