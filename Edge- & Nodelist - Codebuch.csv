@@ -13,7 +13,7 @@ id,"eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird
 name,Name oder Bezeichnung des Knotens. 
 type,dichotome Ausprägung: Person (1) und Organisation (2)
 education,Bildungsgrad  Schulabschluss (1) Studium (2) Promotion (3)
-funktion,Vorstandsmitglied (1) Aufsichtsratmitglied (2)
+committee,Vorstandsmitglied (1) Aufsichtsratmitglied (2)
 position,Vorsitz (1) Stellverteter (2) Mitglied (3)
 representation,Funktion innerhalb VfB Gremien. Fan-/Vereinskultur (1) Wirtschaft (2) Sport (3) Finanzen (4) Kommunikation (5)
 age,Alter des Mitglieds. Unter 40 (1) 40-50 (2) 51 - 60 (3) 61 - 70 (4) Über 70 (5)
